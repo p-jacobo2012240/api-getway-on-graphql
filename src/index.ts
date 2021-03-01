@@ -2,6 +2,8 @@ import "reflect-metadata";
 import {createConnection} from "typeorm";
 import {User} from "./entity/User";
 
+// official doc: https://www.npmjs.com/package/type-graphql  
+
 createConnection().then(async connection => {
 
     console.log("Inserting a new user into the database...");
