@@ -8,9 +8,10 @@
       "typescript": "3.3.3333"
    },
    "dependencies": {
-      "typeorm": "0.2.31",
+      "mysql": "^2.14.1",
       "reflect-metadata": "^0.1.10",
-      "mysql": "^2.14.1"
+      "type-graphql": "^1.1.1",
+      "typeorm": "0.2.31"
    },
    "scripts": {
       "start": "ts-node src/index.ts"
