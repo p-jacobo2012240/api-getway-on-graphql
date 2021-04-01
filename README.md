@@ -17,7 +17,9 @@ In recent years GraphQL has taken on a lot of importance given its way of consum
 
 You can find them [here](https://github.com/p-jacobo2012240/microservices-with-gql)
 
-##  how do i run it
+##  How do i run it ?
+
+You can see the next steps 😁.
 
 1. Run `npm i` command
 2. Setup database settings inside `ormconfig.json` file
