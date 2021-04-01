@@ -12,7 +12,7 @@ this repository contains the services of:
 ## why does this project exist?
 
 In recent years GraphQL has taken on a lot of importance given its way of consuming, documenting and exposing information, among these use cases, I have had the opportunity to use it as a gateway for microservices and I have seen its efficiency so I decided to do this project which abort issues like event syncing and graphql as getway api
-
+  
 
 1. Run `npm i` command
 2. Setup database settings inside `ormconfig.json` file
